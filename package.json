@@ -1,0 +1,11 @@
+{
+  "name": "NFT-Market",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JohnDeveloperJ/NFT-Market",
+  "author": "john j <johnjjdev690@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hardhat": "^2.18.3"
+  }
+}
