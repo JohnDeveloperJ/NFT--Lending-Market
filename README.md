@@ -1,5 +1,8 @@
 # Dynamic NFT Lending
 
+![theworldeater_scary_hd_monkey_mean_diaamond_teeth_4069b256-03f9-42ad-86c2-3a4a03e6a8e3](https://github.com/JohnDeveloperJ/NFT-Market/assets/143453887/0ba55649-43b3-4bb7-864e-e15a4bfbc028)
+
+
 Welcome to **Dynamic NFT Lending** — the revolutionary, market-driven lending platform reshaping how NFTs are financed. Our protocol is uniquely crafted for NFT holders and investors, offering flexible, oracle-free, floating-rate loans with dynamic loan-to-value ratios. Dive into a world where NFT collateral and decentralized finance merge seamlessly.
 
 ## Features
